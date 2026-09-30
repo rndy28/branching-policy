@@ -16,3 +16,4 @@ function pipe(...arr) {
 
 
 const a = 29;
+async function sendAnalytics(){}
