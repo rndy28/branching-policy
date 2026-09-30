@@ -13,3 +13,6 @@ function pipe(...arr) {
 
     return (value) => arr.map((fn) => fn(value));
 }
+
+
+const a = 29;
